@@ -4,9 +4,10 @@ role: Psychology PhD Student
 avatar_filename: avatar.png
 bio: Psychology
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Social Science
+  - Political Psychology
+  - Misinformation
+  - Social Media
 social:
   - icon: envelope
     icon_pack: fas
