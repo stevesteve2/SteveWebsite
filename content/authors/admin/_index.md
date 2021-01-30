@@ -36,7 +36,7 @@ education:
       year: 2022
     - course: BA in Psychology, Minor in Symbolic Systems
       institution: Stanford University
-      year: 2016
+      year: 2018
 email: ""
 superuser: true
 highlight_name: false
