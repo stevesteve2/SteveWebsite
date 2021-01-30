@@ -1,7 +1,7 @@
 ---
 title: Steve Rathje
 role: Psychology PhD Student
-avatar_filename: headshotcambridge.png
+avatar_filename: https://twitter.com/steverathje2/photo
 bio: Psychology
 interests:
   - Artificial Intelligence
