@@ -43,4 +43,4 @@ highlight_name: false
 ---
 Hello!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Steve Rathje CV 2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
