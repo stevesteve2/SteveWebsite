@@ -1,7 +1,7 @@
 ---
 title: Steve Rathje
 role: Psychology PhD Student
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: Psychology
 interests:
   - Computational Social Science
