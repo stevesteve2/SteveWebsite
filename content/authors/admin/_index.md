@@ -41,7 +41,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Steve studies misinformation and political polarization in the context of social media methods from experimental psychology and computational social science. He also is designing a web app and a browser extension that aim to make people more aware of their online behavior and “nudge” them to post better content online. You can try out his web app [here](https://steverathje.shinyapps.io/HaveISharedFakeNews/). 
+Steve studies misinformation and political polarization on social media using methods from experimental psychology and computational social science. He also is designing a web app and a browser extension that aim to make people more aware of their online behavior and “nudge” them to post better content online. You can try out his web app [here](https://steverathje.shinyapps.io/HaveISharedFakeNews/). 
 
 Steve Rathje is pursuing a PhD in Psychology at Trinity College, Cambridge as a Gates Cambridge Scholar. Previously, he studied Psychology and Symbolic Systems at Stanford University, where he where he graduated Junior Phi Beta Kappa and received the Sterling Award for academic excellence. He works primarily with Sander van der Linden in the Cambridge Social Decision-Making Lab, and is also a visiting researcher with Professor Jay van Bavel’s Social Identity and Morality Lab. 
 
