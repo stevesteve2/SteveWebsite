@@ -1,7 +1,7 @@
 ---
 title: Steve Rathje
 role: Psychology PhD Student
-avatar_filename: headshotcambridge.png
+avatar_filename: null
 bio: Psychology
 interests:
   - Artificial Intelligence
@@ -28,9 +28,9 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD Psychology
+      institution: University of Cambridge
+      year: 2022
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
