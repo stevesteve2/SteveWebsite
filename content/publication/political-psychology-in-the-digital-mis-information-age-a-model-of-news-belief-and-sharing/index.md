@@ -24,7 +24,7 @@ abstract: The spread of misinformation, including “fake news,” propaganda, a
   solutions. Hence, we provide a roadmap for future research to identify where
   scholars should invest their energy in order to have the greatest overall
   impact.
-draft: true
+draft: false
 featured: true
 image:
   filename: featured
