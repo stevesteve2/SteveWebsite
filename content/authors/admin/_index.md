@@ -32,12 +32,9 @@ education:
     - course: PhD Psychology
       institution: University of Cambridge
       year: 2022
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BA in Psychology, Minor in Symbolic Systems
+      institution: Stanford University
+      year: 2016
 email: ""
 superuser: true
 highlight_name: false
