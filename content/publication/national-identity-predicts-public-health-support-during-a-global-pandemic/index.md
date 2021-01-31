@@ -25,7 +25,7 @@ abstract: The ongoing COVID-19 pandemic is a devastating global health crisis.
   leadership, and public health for managing the COVID-19 pandemic and future
   pandemics.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
