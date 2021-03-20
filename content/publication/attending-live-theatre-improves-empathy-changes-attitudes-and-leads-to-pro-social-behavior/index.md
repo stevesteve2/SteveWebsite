@@ -25,7 +25,7 @@ abstract: Can attending live theatre improve empathy by immersing audience
   entertainment; it can lead to tangible increases in empathy and pro-social
   behavior.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
