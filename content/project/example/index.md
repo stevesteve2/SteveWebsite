@@ -20,6 +20,6 @@ image:
   caption: ""
   focal_point: Smart
   preview_only: false
-  filename: screen-shot-2021-03-20-at-12.00.07-am.png
+  filename: featured.png
 url_code: ""
 ---
