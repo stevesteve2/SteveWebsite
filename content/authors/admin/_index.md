@@ -8,6 +8,7 @@ interests:
   - Misinformation
   - Computational Social Science
   - Social Media
+  - Psychology and the Arts
 social:
   - icon: envelope
     icon_pack: fas
