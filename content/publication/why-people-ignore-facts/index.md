@@ -5,6 +5,7 @@ publication_types:
 authors:
   - Steve Rathje
 doi: https://www.psychologytoday.com/us/blog/words-matter/201810/why-people-ignore-facts
+publication: Psychology Today
 draft: false
 featured: false
 image:
