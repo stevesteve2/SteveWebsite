@@ -25,7 +25,7 @@ abstract: The spread of misinformation, including “fake news,” propaganda, a
   scholars should invest their energy in order to have the greatest overall
   impact.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
