@@ -9,7 +9,7 @@ author_notes:
   - Leor Hackel
   - Jamil Zaki
 doi: https://doi.org/10.1016/j.jesp.2021.104138
-publication: "Journal of Experimental Social Psychology "
+publication: Journal of Experimental Social Psychology
 abstract: Can attending live theatre improve empathy by immersing audience
   members in the stories of others? We tested this question across three field
   studies (n = 1622), including a pre-registered replication. We randomly
