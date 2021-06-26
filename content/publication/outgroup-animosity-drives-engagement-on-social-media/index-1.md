@@ -7,7 +7,8 @@ authors:
   - Steve; Van Bavel
   - JJ; van der Linden
   - Sander
-publication: Proceedings of the National Academy of Sciences (In Press)
+doi: https://doi.org/10.1073/pnas.2024292118
+publication: Proceedings of the National Academy of Sciences
 publication_short: ""
 abstract: "There has been growing concern about the role social media plays in
   political polarization. We investigated whether outgroup animosity was
