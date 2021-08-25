@@ -22,14 +22,13 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/stevesteve2
-    display:
-      header: false
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/steverathje/
+  - icon: tiktok
+    icon_pack: fab
+    link: https://www.tiktok.com/@stevethepsychologist?lang=en
 organizations:
-  - name: University of Cambridge
-    url: https://www.stanford.edu/
    -name: Social Decision-Making Lab
     url: https://www.sdmlab.psychol.cam.ac.uk/
    -name: Social Identity and Morality Lab
