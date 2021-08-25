@@ -42,10 +42,10 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Steve studies misinformation and political polarization on social media using methods from experimental psychology and computational social science. \
-\
-He also is designing a web app and a browser extension that aim to make people more aware of their online behavior. **You can try out his web app "Have I Shared Fake News" [here](https://newsfeedback.shinyapps.io/HaveISharedFakeNews/).** 
+Steve studies misinformation and political polarization on social media using methods from experimental psychology and computational social science.
 
-Steve Rathje is pursuing a PhD in Psychology at Trinity College, Cambridge as a Gates Cambridge Scholar. Previously, he studied Psychology and Symbolic Systems at Stanford University, where he graduated Junior Phi Beta Kappa and received the Sterling Award for academic excellence. He works primarily with Sander van der Linden in the Cambridge Social Decision-Making Lab, and is also a visiting researcher with Professor Jay van Bavel’s Social Identity and Morality Lab. In 2022, he will be a post-doctoral researcher at NYU with Jay van Bavel, funded in part by a "Synergy Scholar" award from the Center for the Science of Moral Understanding.
+Steve is a PhD candidate at the University of Cambridge (Trinity College), where he studies as a Gates Cambridge Scholar as a member of the Cambridge Social Decision-Making Lab. Previously, he studied Psychology and Symbolic Systems at Stanford University. He has published in journals such as the Proceedings of the National Academy of Science and the Journal of Experimental Social Psychology, and his research has been covered by outlets such as the BBC, NBC, and the Guardian. He has written about psychology for the Washington Post, the Guardian, the Los Angeles Times, and Psychology Today. He has received grants from the Center for Moral Understanding, Heterodox Academy, and AE foundation. His thesis was recently awarded the Psychology of Technology Dissertation Fellowship. In 2022, he will be a post-doctoral researcher at NYU with the Social Identity and Morality Lab, funded in part by a "Synergy Scholar" award from the Center for the Science of Moral Understanding.![image](https://user-images.githubusercontent.com/57866574/130864230-efc2f79d-75c1-414e-a3fa-c97a5792a959.png)
 
-{{< icon name="download" pack="fas" >}} Download Steve's {{< staticref "media/Steve Rathje CV Updated.pdf" "newtab" >}}CV{{< /staticref >}}.
+**To learn if you have shared fake news on Twitter, you can try out his web app "Have I Shared Fake News" [here](https://newsfeedback.shinyapps.io/HaveISharedFakeNews/).** 
+
+{{< icon name="download" pack="fas" >}} Download Steve's {{< staticref "media/Steve Rathje CV August 2021.pdf" "newtab" >}}CV{{< /staticref >}}.
