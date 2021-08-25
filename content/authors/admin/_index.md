@@ -27,9 +27,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/steverathje/
-  - icon: tiktok
-    icon_pack: fab
-    link: https://www.tiktok.com/@stevethepsychologist?lang=en
 organizations:
   - name: University of Cambridge
     url: https://www.stanford.edu/
@@ -53,6 +50,6 @@ Steve studies misinformation and political polarization on social media using me
 
 Steve is a PhD candidate at the University of Cambridge (Trinity College), where he studies as a Gates Cambridge Scholar as a member of the Cambridge Social Decision-Making Lab. Previously, he studied Psychology and Symbolic Systems at Stanford University. He has published in journals such as the Proceedings of the National Academy of Science and the Journal of Experimental Social Psychology, and his research has been covered by outlets such as the BBC, NBC, and the Guardian. He has written about psychology for the Washington Post, the Guardian, the Los Angeles Times, and Psychology Today. He has received grants from the Center for Moral Understanding, Heterodox Academy, and AE foundation. His thesis was recently awarded the Psychology of Technology Dissertation Fellowship. In 2022, he will be a post-doctoral researcher at NYU with the Social Identity and Morality Lab, funded in part by a "Synergy Scholar" award from the Center for the Science of Moral Understanding.
 
-**To learn if you have shared fake news on Twitter, you can try out his web app "Have I Shared Fake News" [here](https://newsfeedback.shinyapps.io/HaveISharedFakeNews/).** 
+**To learn if you have shared fake news on Twitter, you can try out his web app "Have I Shared Fake News" [here](https://newsfeedback.shinyapps.io/HaveISharedFakeNews/).**
 
 {{< icon name="download" pack="fas" >}} Download Steve's {{< staticref "media/Steve Rathje CV August 2021.pdf" "newtab" >}}CV{{< /staticref >}}.
