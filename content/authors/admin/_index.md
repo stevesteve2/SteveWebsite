@@ -19,12 +19,17 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=tw5jvawAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/stevesteve2
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/steverathje/
+    link: https://www.linkedin.com/in/steverathje/  
+  - icon: tiktok
+    icon_pack: fab
+    link: https://www.tiktok.com/@stevethepsychologist?lang=en
+organizations:
+   -name: Social Decision-Making Lab
+    url: https://www.sdmlab.psychol.cam.ac.uk/
+   -name: Social Identity and Morality Lab
+    url: https://www.jayvanbavel.com/lab
 education:
   courses:
     - course: PhD Psychology
