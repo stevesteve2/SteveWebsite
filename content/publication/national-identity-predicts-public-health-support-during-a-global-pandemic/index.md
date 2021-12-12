@@ -5,9 +5,22 @@ publication_types:
   - "0"
 authors:
   - Van Bavel
-  - Jay J.
-  - et al.
-publication: Under Peer Review
+  - J. J.
+  - Cichocka
+  - A.
+  - Capraro
+  - V.
+  - Sjåstad
+  - H.
+  - Nezlek
+  - J. B.
+  - Alfano
+  - M.
+  - ... Rathje
+  - S.
+  - … Hudecek
+  - M. F. C.
+publication: Nature Communications
 abstract: The ongoing COVID-19 pandemic is a devastating global health crisis.
   Without a vaccine or effective medication, the best hope for mitigating virus
   transmission is collective behavior change and support for public health
