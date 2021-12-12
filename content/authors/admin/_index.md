@@ -48,4 +48,4 @@ Steve is a PhD candidate at the University of Cambridge (Trinity College), where
 
 **To learn if you have shared fake news on Twitter, you can try out his web app "Have I Shared Fake News" [here](https://newsfeedback.shinyapps.io/HaveISharedFakeNews/).**
 
-{{< icon name="download" pack="fas" >}} Download Steve's {{< staticref "media/Steve Rathje CV August 2021.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download Steve's {{< staticref "media/Steve Rathje CV 2021 December.pdf" "newtab" >}}CV{{< /staticref >}}.
