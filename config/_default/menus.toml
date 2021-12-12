@@ -12,3 +12,8 @@
   name = "Publications"
   url = "#featured"
   weight = 50
+  
+  [[main]]
+  name = "Publications"
+  url = "media/Steve Rathje CV 2021 December.pdf"
+  weight = 50
