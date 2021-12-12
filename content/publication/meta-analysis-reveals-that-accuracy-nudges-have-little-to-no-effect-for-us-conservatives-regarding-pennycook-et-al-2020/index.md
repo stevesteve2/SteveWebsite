@@ -14,7 +14,7 @@ authors:
   - J.
   - "& van der Linden"
   - S.
-publication: Psychological Sciences
+publication: Psychological Science
 abstract: According to recent work, subtly nudging people to think about
   accuracy can reduce the sharing of COVID-19 misinformation online (Pennycook
   et al., 2020). The authors argue that inattention to accuracy is a key factor
