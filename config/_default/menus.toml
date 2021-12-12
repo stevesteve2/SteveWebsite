@@ -14,6 +14,6 @@
   weight = 50
   
   [[main]]
-  name = "Publications"
+  name = "CV"
   url = "media/Steve Rathje CV 2021 December.pdf"
   weight = 50
