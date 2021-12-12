@@ -22,9 +22,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/steverathje/  
-  - icon: tiktok
-    icon_pack: fab
-    link: https://www.tiktok.com/@stevethepsychologist?lang=en
 education:
   courses:
     - course: PhD Psychology
