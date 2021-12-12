@@ -26,10 +26,8 @@ social:
     icon_pack: fab
     link: https://www.tiktok.com/@stevethepsychologist?lang=en
 organizations:
-   -name: Social Decision-Making Lab
-    url: https://www.sdmlab.psychol.cam.ac.uk/
+   -name: Social Decision Making Lab
    -name: Social Identity and Morality Lab
-    url: https://www.jayvanbavel.com/lab
 education:
   courses:
     - course: PhD Psychology
