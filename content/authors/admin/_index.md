@@ -25,9 +25,6 @@ social:
   - icon: tiktok
     icon_pack: fab
     link: https://www.tiktok.com/@stevethepsychologist?lang=en
-organizations:
-   -name: Social Decision Making Lab
-   -name: Social Identity and Morality Lab
 education:
   courses:
     - course: PhD Psychology
