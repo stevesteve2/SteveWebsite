@@ -34,7 +34,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Steve studies social media, misinformation, political polarization, and intergroup conflict using methods from experimental psychology and computational social science.
+Steve studies social media, misinformation, political polarization, and intergroup conflict using methods from experimental psychology and computational social science. 
 
 Steve is a postdoctoral researcher at New York University in the Social Identity and Morality Lab. He received his PhD from the University of Cambridge (Trinity College), where was a Gates Cambridge Scholar and a member of the Cambridge Social Decision-Making Lab. Previously, he studied Psychology and Symbolic Systems at Stanford University. 
 
