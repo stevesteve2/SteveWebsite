@@ -24,7 +24,7 @@ abstract: The extent to which belief in (mis)information reflects (lack of)
   effective, suggesting that motivation-based interventions are scalable.
   Altogether, these results suggest that a substantial portion of people’s
   judgements of the accuracy of news reflects motivational factors.
-draft: true
+draft: false
 featured: true
 image:
   filename: featured
