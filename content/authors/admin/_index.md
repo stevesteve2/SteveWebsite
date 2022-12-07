@@ -44,7 +44,7 @@ He has received grants from the Russel Sage Foundation, the Center for the Scien
 
 Steve is also very interested in Science Communication, and has written articles for the Washington Post, the Guardian, the LA Times, Quartz, and Psychology Today. He also makes Science Communication TikToks under the name @stevepsychology (1.1+ million followers). 
 
-{{< icon name="download" pack="fas" >}} Download Steve's {{< staticref "media/Steve Rathje CV 2022 July.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download Steve's {{< staticref "media/Steve Rathje CV 2022 December.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 You can contact Steve at srathje@alumni.stanford.edu. 
 
