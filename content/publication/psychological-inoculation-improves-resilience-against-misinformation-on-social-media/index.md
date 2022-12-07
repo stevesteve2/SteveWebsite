@@ -4,7 +4,7 @@ title: Psychological inoculation improves resilience against misinformation on
 publication_types:
   - "0"
 authors:
-  - J RJon Roozenbeek
+  - Jon Roozenbeek
   - Sander van der Linden
   - Beth Goldberg
   - Steve Rathje
