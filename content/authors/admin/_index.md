@@ -40,7 +40,7 @@ Steve is a postdoctoral researcher at New York University in the Social Identity
 
 He has published in journals such as the Proceedings of the National Academy of Science, Psychological Science, Trends in Cognitive Sciences, Nature Communications, and the Journal of Experimental Social Psychology. His research has been covered by outlets such as the New York Times, BBC, NBC, the Atlantic, the Wall Street Journal, the Guardian, and the Freakonomics podcast. 
 
-He has received grants from the Russel Sage Foundation, the Center for the Science of Moral Understanding, Heterodox Academy, the AE foundation, and Google. His thesis was awarded the Psychology of Technology Dissertation Fellowship. 
+He has received grants from the Russel Sage Foundation, the Center for the Science of Moral Understanding, the AE foundation, and Google. His thesis was awarded the Psychology of Technology Dissertation Fellowship. 
 
 Steve is also very interested in Science Communication, and has written articles for the Washington Post, the Guardian, the LA Times, Quartz, and Psychology Today. He also makes Science Communication TikToks under the name @stevepsychology (1.1+ million followers). 
 
