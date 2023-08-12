@@ -51,6 +51,6 @@ Steve is also very interested in science communication, and has written articles
 \
 S﻿teve is currently leading an international collaboration testing the causal impact of social media usage around the world. This collaboration involves more than 640 researchers residing in 76 countries, and has received $275,000 in total grant funding. You can learn more about this collaboration here: [globalsocialmediastudy.com](https://globalsocialmediastudy.com/). 
 
-{{< icon name="download" pack="fas" >}} Download Steve's {{< staticref "media/Steve Rathje CV 2022 December.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download Steve's {{< staticref "media/Steve Rathje CV 2023.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 You can contact Steve at srathje@alumni.stanford.edu.
