@@ -28,7 +28,7 @@ abstract: The social and behavioral sciences have been increasingly using
   of psychological text analysis, and may help facilitate more cross-linguistic
   research with understudied languages.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
