@@ -49,11 +49,7 @@ He has received grants from the [Templeton World Charity Foundation](https://www
 
 Steve is also very interested in science communication, and has written articles for the [Washington Post](https://www.washingtonpost.com/politics/2021/07/13/why-facebook-really-really-doesnt-want-discourage-extremism/), [the Guardian](https://www.theguardian.com/science/head-quarters/2017/jul/20/the-power-of-framing-its-not-what-you-say-its-how-you-say-it), [the LA Times](https://www.latimes.com/opinion/story/2021-05-02/theater-empathy-live-performance-psychology), and [Psychology Today](https://www.psychologytoday.com/us/blog/words-matter/201810/why-people-ignore-facts). He also makes science communication TikToks under the name [@stevepsychology](https://www.tiktok.com/@stevepsychology?lang=en), and has more than 1.1 million TikTok followers. \
 \
-S﻿teve is currently leading an international collaboration testing the causal impact of social media usage around the world. This collaboration involves more than 640 researchers residing in 76 countries a dnn dnd dn  dn
-
-\
-\
-ou can learn more about this collaboration here: [globalsocialmediastudy.com](https://globalsocialmediastudy.com/). 
+S﻿teve is currently leading an international collaboration testing the causal impact of social media usage around the world. This collaboration involves more than 640 researchers residing in 76 countries, and has received $275,000 in total grant funding. You can learn more about this collaboration here: [globalsocialmediastudy.com](https://globalsocialmediastudy.com/). 
 
 {{< icon name="download" pack="fas" >}} Download Steve's {{< staticref "media/Steve Rathje CV 2022 December.pdf" "newtab" >}}CV{{< /staticref >}}.
 
