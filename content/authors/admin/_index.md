@@ -4,11 +4,11 @@ role: Psychology Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: Psychology
 interests:
-  - Political Psychology
-  - Misinformation
+  - Psychology of Technology
+  - Intergroup Conflict
   - Computational Social Science
   - Social Media
-  - Psychology and the Arts
+  - Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,6 +22,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/steverathje/
+  - display:
+      header: false
+    icon_pack: fab
+    icon: tiktok
+    link: https://www.tiktok.com/@stevepsychology
 education:
   courses:
     - course: PhD Psychology
@@ -34,18 +39,18 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Steve studies social media, misinformation, political polarization, and intergroup conflict using methods from experimental psychology and computational social science. 
+Steve studies the psychology of how humans interact with technology. Much of his work has focused on [how social media incentivizes the creation of polarizing content](https://www.pnas.org/doi/10.1073/pnas.2024292118), and [why we believe in and spread misinformation](https://www.nature.com/articles/s41562-023-01540-w). His current work focuses on how the [impact of social media differs around the globe](https://globalsocialmediastudy.com/), and how we can use recent advances in artificial intelligence to improve psychological science. 
 
-Steve is a postdoctoral researcher at New York University in the Social Identity and Morality Lab. He received his PhD from the University of Cambridge (Trinity College), where was a Gates Cambridge Scholar and a member of the Cambridge Social Decision-Making Lab. Previously, he studied Psychology and Symbolic Systems at Stanford University. 
+Steve is a postdoctoral researcher in Psychology at New York University.  He received his PhD from the University of Cambridge (Trinity College), where was a Gates Cambridge Scholar. Previously, he studied Psychology and Symbolic Systems at Stanford University. 
 
-He has published in journals such as the Proceedings of the National Academy of Science, Psychological Science, Trends in Cognitive Sciences, Nature Communications, and the Journal of Experimental Social Psychology. His research has been covered by outlets such as the New York Times, BBC, NBC, the Atlantic, the Wall Street Journal, the Guardian, and the Freakonomics podcast. 
+He has published in journals such as the [Proceedings of the National Academy of Science](https://www.pnas.org/doi/10.1073/pnas.2024292118), [Nature Human Behavior](https://www.nature.com/articles/s41562-023-01540-w), [Science Advances](https://www.science.org/doi/10.1126/sciadv.abo6254), [Psychological Science](https://sage.figshare.com/articles/journal_contribution/Pennycook_Supplemental_Material_rev_Supplemental_material_for_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_Accuracy-Nudge_Intervention/12594110/2), [Trends in Cognitive Sciences](https://www.sciencedirect.com/science/article/abs/pii/S1364661321001960), [Perspectives on Psychological Science](https://psyarxiv.com/gmun4/), [PNAS Nexus](https://academic.oup.com/pnasnexus/article/1/4/pgac207/6726650), Nature Communications, and the Journal of Experimental Social Psychology. His research has been covered by outlets such as the [New York Times](https://www.nytimes.com/2022/10/06/opinion/elon-musk-twitter.html), [BBC](https://www.bbc.com/news/technology-57558028), [NBC](https://www.nbcnews.com/tech/tech-news/go-viral-social-media-attack-political-opponent-study-says-rcna1277), [CBS Sixty Minutes](https://www.youtube.com/watch?v=WLfr7sU5W2E), [the Atlantic](https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/), the [Wall Street Journal](https://www.wsj.com/articles/reason-why-you-should-attend-live-theater-11636403394), [the Guardian](https://www.theguardian.com/education/2021/jun/30/critical-race-theory-rightwing-social-media-viral-video), and the Freakonomics podcast. 
 
-He has received grants from the Russel Sage Foundation, the Center for the Science of Moral Understanding, the AE foundation, and Google. His thesis was awarded the Psychology of Technology Dissertation Fellowship. 
+He has received grants from the Templeton World Charity Foundation, the Russell Sage Foundation, the Center for the Science of Moral Understanding, the AE Foundation, Google, Cambridge, and NYU. His thesis was awarded the Psychology of Technology Dissertation Fellowship, and was a a finalist for the SESP dissertation award. 
 
-Steve is also very interested in Science Communication, and has written articles for the Washington Post, the Guardian, the LA Times, Quartz, and Psychology Today. He also makes Science Communication TikToks under the name @stevepsychology (1.1+ million followers). 
+Steve is also very interested in science communication, and has written articles for the Washington Post, the Guardian, the LA Times, Quartz, and Psychology Today. He also makes science communication TikToks under the name @stevepsychology, and has more than 1.1 million TikTok followers. \
+\
+S﻿teve is currently leading an international collaboration testing the causal impact of social media usage around the world. This collaboration involves more than 640 researchers residing in 76 countries. You can learn more about this collaboration here: [globalsocialmediastudy.com](https://globalsocialmediastudy.com/). 
 
 {{< icon name="download" pack="fas" >}} Download Steve's {{< staticref "media/Steve Rathje CV 2022 December.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-You can contact Steve at srathje@alumni.stanford.edu. 
-
-**To learn if you have shared fake news on Twitter, you can try out his web app "Have I Shared Fake News" [here](https://newsfeedback.shinyapps.io/HaveISharedFakeNews/).**
+You can contact Steve at srathje@alumni.stanford.edu.
