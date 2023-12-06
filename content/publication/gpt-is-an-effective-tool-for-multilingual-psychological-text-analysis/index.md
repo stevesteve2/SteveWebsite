@@ -2,8 +2,17 @@
 title: GPT is an effective tool for multilingual psychological text analysis
 publication_types:
   - "0"
+authors:
+  - Steve Rathje*
+  - Dan-Mircea Mirea*
+  - Ilia Sucholutsky
+  - Raja Marjieh
+  - Claire Robertson
+  - and Jay J Van Bavel
+author_notes:
+  - "*Co-First Authors"
 doi: https://psyarxiv.com/sekf5?trk=public_post_reshare-text
-publication: Psyarxiv
+publication: Revise and Resubmit at Proceedings of the National Academy of Sciences
 abstract: The social and behavioral sciences have been increasingly using
   automated text analysis to measure psychological constructs in text. We
   explore whether GPT, the large-language model underlying the artificial
