@@ -3,8 +3,8 @@ title: People think that social media platforms do (but should not) amplify
   divisive content
 publication_types:
   - "0"
-doi: 10.31234/osf.io/gmun4
-publication: Perspectives on Psychological Science (In Press)
+doi: https://doi.org/10.1177/17456916231190392
+publication: "Perspectives on Psychological Science "
 abstract: Recent studies have documented the type of content that is most likely
   to spread widely, or go “viral” on social media, yet little is known about
   people’s perceptions of what goes viral or what should go viral. This is
