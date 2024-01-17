@@ -3,11 +3,11 @@ title: Attending live theatre improves empathy, changes attitudes, and leads to
   pro-social behavior
 publication_types:
   - "2"
-authors: []
-author_notes:
+authors:
   - Steve Rathje
   - Leor Hackel
   - Jamil Zaki
+author_notes: []
 doi: https://doi.org/10.1016/j.jesp.2021.104138
 publication: Journal of Experimental Social Psychology
 abstract: Can attending live theatre improve empathy by immersing audience
