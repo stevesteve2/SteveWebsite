@@ -8,8 +8,8 @@ authors:
   - Kareena del Rosario
   - Jesper Rasmussen
   - Steve Rathje
-doi: 10.31234/osf.io/ywevq
-publication: Annual Review of Psychology (In Press)
+doi: 10.1146/annurev-psych-022123-110258
+publication: Annual Review of Psychology
 abstract: Nearly five billion people around the world now use social media, and
   this number continues to grow. One of the primary goals of social media
   platforms is to capture and monetize human attention. One means by which
