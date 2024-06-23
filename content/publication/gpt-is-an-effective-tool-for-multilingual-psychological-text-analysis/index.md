@@ -1,7 +1,7 @@
 ---
 title: GPT is an effective tool for multilingual psychological text analysis
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Steve Rathje*
   - Dan-Mircea Mirea*
@@ -12,30 +12,30 @@ authors:
 author_notes:
   - "*Co-First Authors"
 doi: https://psyarxiv.com/sekf5?trk=public_post_reshare-text
-publication: Revise and Resubmit at Proceedings of the National Academy of Sciences
+publication: Proceedings of the National Academy of Sciences (In Press)
 abstract: The social and behavioral sciences have been increasingly using
   automated text analysis to measure psychological constructs in text. We
   explore whether GPT, the large-language model underlying the artificial
   intelligence chatbot ChatGPT, can be used as a tool for automated
-  psychological text analysis in various languages. Across 15 datasets (n =
-  31,789 manually annotated tweets and news headlines), we tested whether
-  GPT-3.5 and GPT-4 can accurately detect psychological constructs (sentiment,
-  discrete emotions, and offensiveness) across 12 languages (English, Arabic,
-  Indonesian, and Turkish, as well as eight African languages including Swahili,
-  Amharic, Yoruba and Kinyarwanda). We found that GPT performs much better than
-  English-language dictionary-based text analysis (r = 0.66-0.75 for
-  correlations between manual annotations and GPT-4, as opposed to r = 0.20-0.30
-  for correlations between manual annotations and dictionary methods). Further,
-  GPT performs nearly as well as or better than several fine-tuned machine
-  learning models, though GPT had poorer performance in African languages and in
-  comparison to more recent fine-tuned models. Overall, GPT may be superior to
-  many existing methods of automated text analysis, since it achieves relatively
-  high accuracy across many languages, requires no training data, and is easy to
-  use with simple prompts (e.g., “is this text negative?”) and little coding
-  experience. We provide sample code for analyzing text with the GPT application
-  programming interface. GPT and other large-language models may be the future
-  of psychological text analysis, and may help facilitate more cross-linguistic
-  research with understudied languages.
+  psychological text analysis in several languages. Across 15 datasets (n =
+  47,925 manually annotated tweets and news headlines), we tested whether
+  different versions of GPT (3.5 Turbo, 4, and 4 Turbo) can accurately detect
+  psychological constructs (sentiment, discrete emotions, offensiveness, and
+  moral foundations) across 12 languages. We found that GPT (r = 0.59-0.77)
+  performs much better than English-language dictionary analysis (r = 0.20-0.30)
+  at detecting psychological constructs as judged by manual annotators. GPT
+  performs nearly as well as, and sometimes better than, several top-performing
+  fine-tuned machine learning models. Moreover, GPT’s performance has improved
+  across successive versions of the model, particularly for lesser-spoken
+  languages. Overall, GPT may be superior to many existing methods of automated
+  text analysis, since it achieves relatively high accuracy across many
+  languages, requires no training data, and is easy to use with simple prompts
+  (e.g., “is this text negative?”) and little coding experience. We provide
+  sample code and a video tutorial for analyzing text with the GPT application
+  programming interface. We argue that GPT and other large-language models may
+  democratize automated text analysis by making advanced natural language
+  processing capabilities more accessible, and may help facilitate more
+  cross-linguistic research with understudied languages.
 draft: false
 featured: true
 image:
