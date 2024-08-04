@@ -32,7 +32,7 @@ abstract: According to recent work, subtly nudging people to think about
   (Guess et al., 2019; Lawson & Kakkar, 2021; Osmundson, 2021), this
   intervention may be ineffective for those most likely to spread fake news.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
