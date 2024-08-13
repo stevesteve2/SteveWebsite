@@ -11,8 +11,8 @@ authors:
   - and Jay J Van Bavel
 author_notes:
   - "*Co-First Authors"
-doi: https://psyarxiv.com/sekf5?trk=public_post_reshare-text
-publication: Proceedings of the National Academy of Sciences (In Press)
+doi: https://www.pnas.org/doi/10.1073/pnas.2308950121
+publication: Proceedings of the National Academy of Sciences
 abstract: The social and behavioral sciences have been increasingly using
   automated text analysis to measure psychological constructs in text. We
   explore whether GPT, the large-language model underlying the artificial
