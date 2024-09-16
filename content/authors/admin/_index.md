@@ -52,6 +52,6 @@ S﻿teve is currently leading an international collaboration testing the causal 
 
 {{< icon name="download" pack="fas" >}} Download Steve's {{< staticref "media/Steve Rathje CV 2023.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Read Steve's {{< staticref "media/ResearchStatement_SocialPsychologyManagement_2024.pdf.pdf" "newtab" >}}Research Statement{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Read Steve's {{< staticref "media/ResearchStatement_SocialPsychologyManagement_2024.pdf" "newtab" >}}Research Statement{{< /staticref >}}.
 
 You can contact Steve at srathje@alumni.stanford.edu.
