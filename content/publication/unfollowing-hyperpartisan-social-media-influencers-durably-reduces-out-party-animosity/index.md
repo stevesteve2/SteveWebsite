@@ -13,6 +13,7 @@ authors:
   - Dr. Sander van der Linden
   - "& Jay J. Van Bavel"
 doi: https://doi.org/10.31234/osf.io/acbwg
+publication: PsyArXiv Preprint
 abstract: "There is considerable debate over whether and how social media
   contributes to polarization. In a correlational study (n1 = 1,447) and two
   digital field experiments (n2 = 494, n3 = 1,133), we examined whether
