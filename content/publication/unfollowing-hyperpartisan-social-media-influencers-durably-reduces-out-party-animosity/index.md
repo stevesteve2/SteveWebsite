@@ -2,7 +2,7 @@
 title: Unfollowing hyperpartisan social media influencers durably reduces
   out-party animosity
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Steve Rathje
   - Clara Pretus
