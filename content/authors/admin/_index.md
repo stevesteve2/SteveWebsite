@@ -1,7 +1,7 @@
 ---
 title: Steve Rathje
 role: Incoming Assistant Professor at Carnegie Mellon
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: Psychology
 interests:
   - Intergroup Conflict
