@@ -1,6 +1,6 @@
 ---
 title: Steve Rathje
-role: Incoming Assistant Professor at Carnegie Mellon
+role: Incoming Assistant Professor at Carnegie Mellon University
 avatar_filename: avatar.png
 bio: Psychology
 interests:
