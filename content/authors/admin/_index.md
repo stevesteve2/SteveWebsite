@@ -35,7 +35,9 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-S﻿teve is an incoming Assistant Professor of Human-Computer Interaction in the School of Computer Science at Carnegie Mellon University (starting Fall of 2026), with a joint appointment (by Courtesy) with the Department of Social and Decision Sciences. Currently, he is an Steve is an [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2404649&HistoricalAwards=false) and [AXA] (https://axa-research.org/fund-your-research/post-doctoral-fellowships) postdoctoral fellow at New York University. He received his PhD from the University of Cambridge (Trinity College), where he was a Gates Cambridge Scholar. Previously, he studied Psychology and Symbolic Systems at Stanford University.
+S﻿teve is an incoming Assistant Professor of Human-Computer Interaction in the School of Computer Science at Carnegie Mellon University (starting Fall of 2026), with a joint appointment (by Courtesy) with the Department of Social and Decision Sciences. \
+\
+Currently, he is an an [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2404649&HistoricalAwards=false) and [AXA](https://axa-research.org/fund-your-research/post-doctoral-fellowships) postdoctoral fellow at New York University. He received his PhD from the University of Cambridge (Trinity College), where he was a Gates Cambridge Scholar. Previously, he studied Psychology and Symbolic Systems at Stanford University.
 
 Steve studies intergroup conflict, the spread of (mis)information, and how these topics interact with digital technologies, such as social media and artificial intelligence.
 
