@@ -1,7 +1,7 @@
 ---
 title: Steve Rathje
 role: Incoming Assistant Professor of Human Computer Interaction
-avatar_filename: avatar.jpg
+avatar_filename: d222da0f-2571-4871-be84-6a035ae65432.jpg
 bio: Psychology
 interests:
   - Intergroup Conflict
