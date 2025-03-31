@@ -3,10 +3,9 @@ title: Outgroup Animosity Drives Engagement on Social Media
 publication_types:
   - "2"
 authors:
-  - Rathje
-  - Steve; Van Bavel
-  - JJ; van der Linden
-  - Sander
+  - Steve Rathje
+  - J.J. Van Bavel
+  - Sander van der Linden
 doi: https://doi.org/10.1073/pnas.2024292118
 publication: Proceedings of the National Academy of Sciences
 publication_short: ""
