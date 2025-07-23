@@ -11,7 +11,7 @@ authors:
   - and Jay J Van Bavel
 author_notes:
   - "*Co-First Authors"
-doi: https://www.pnas.org/doi/10.1073/pnas.2308950121
+doi: https://doi.org/10.1073/pnas.230895012
 publication: Proceedings of the National Academy of Sciences
 abstract: The social and behavioral sciences have been increasingly using
   automated text analysis to measure psychological constructs in text. We
