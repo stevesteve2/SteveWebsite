@@ -5,8 +5,8 @@ publication_types:
 authors:
   - Steve Rathje
   - Jay J. Van Bavel
-doi: https://doi.org/10.31234/osf.io/w742u_v3
-publication: Trends in Cognitive Sciences (In Press)
+doi: https://doi.org/10.1016/j.tics.2025.06.014
+publication: Trends in Cognitive Sciences
 abstract: Why do some ideas spread widely, while others fail to catch on? We
   review the psychology of information spread, or the psychology of “virality.”
   Similar types of information tend to spread in many contexts, both online and
