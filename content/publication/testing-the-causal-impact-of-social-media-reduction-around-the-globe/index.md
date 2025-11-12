@@ -15,6 +15,7 @@ authors:
   - Jay J. Van Bavel
 author_notes:
   - "*Co-First Authors"
+publication: Nature (Stage 1 In Principle Acceptance of Registered Report)
 abstract: "More than half of the world’s population uses social media. There is
   widespread debate among the public, politicians, and academics about social
   media’s impact on important outcomes, such as intergroup conflict and
