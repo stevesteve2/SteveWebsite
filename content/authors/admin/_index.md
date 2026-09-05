@@ -26,7 +26,7 @@ social:
     link: https://www.tiktok.com/@stevepsychology
 organizations:
   - name: Human Computer Interaction Institute
-    url: https://www.cmu.edu/dietrich/sds/
+    url: https://www.hcii.cmu.edu/people/steve-rathje
   - name: Department of Social and Decision Sciences
     url: https://www.cmu.edu/dietrich/sds/
 education:
