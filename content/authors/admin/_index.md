@@ -61,7 +61,7 @@ Steve is currently leading a 23-country field experiment testing the causal impa
 
 Steve is also studying the impact of AI sycophancy through longitudinal field experiments, supported in part by a recent [NSF grant](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2616250).
 
-{{< icon name="download" pack="fas" >}} Download Steve's {{< staticref "media/Steve Rathje CV 2023.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download Steve's {{< staticref "media/Steve Rathje CV 2026.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download Steve's {{< staticref "media/ResearchStatement_SocialPsychologyManagement_2024.pdf" "newtab" >}}Research Statement{{< /staticref >}}.
 
